@@ -1,3 +1,5 @@
+Testing the speed of different Fibonacci algorithms. Finding the 30th term which is 9079565065540428013  
+
 $ go test -bench=.
 
 goos: windows  
